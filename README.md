@@ -1,6 +1,5 @@
 # Additional_experiments_PB_APG
-# Additional-Pictures-of-Penalty-Simple
-This anonymous repository is conducted for rebuttal of the paper: ''Penalty-based Methods for Simple Bilevel Optimization under Hölderian Error Bounds''.
+This anonymous repository is conducted for rebuttal of the paper: ''Penalty-based Methods for Simple Bilevel Optimization under Hölderian Error Bounds'' (10087).
 
 ## linear regression problem
 'linear_lower.jpg' and 'linear_upper.jpg' are the lower and upper gaps of the linear regression problem, respectively.
